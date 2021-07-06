@@ -10,6 +10,10 @@ body {
   font-family: "Lato", sans-serif;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 /* Utility Classes */
 .container {
   width: 80%;
